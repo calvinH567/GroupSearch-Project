@@ -1,0 +1,21 @@
+[
+    {
+        "groupName":"The Group",
+        "owner": "Calvin Huynh",
+       "memberCount":"10",
+        "description":"a cool group",
+        "genre": "Talk"
+        
+    
+  
+    },
+     {
+        "groupName":"A Group",
+        "owner": "Calvin",
+       "memberCount":"2",
+        "description":"a group",
+        "genre": "Activities"
+    
+  
+    }
+]
